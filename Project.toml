@@ -1,0 +1,13 @@
+name = "LotSizingProblems"
+uuid = "623f94cc-a1ff-4b98-b6ae-5db88bddaaf7"
+authors = ["Rafael Martinelli"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
